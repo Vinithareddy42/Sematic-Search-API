@@ -147,3 +147,6 @@ Implemented:
 - **Streaming**: Add streaming responses for the LLM summary
 - **Search Enhancement**: Support hybrid search (keyword + vector) and filters (e.g., price < $X, in_stock)
 - **Prompt Engineering**: Extend schema and prompt to highlight trade-offs more explicitly (price vs. features)
+
+Architecture Diagram
+![alt text](image.png)
